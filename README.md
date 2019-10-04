@@ -7,5 +7,10 @@ Can you solve the water juggle riddle? If you have a 5 Gallon tank and 3 Gallon 
 ![alt text](https://github.com/Nishaant215/Water-Jug-Challenge/blob/master/Water%20Jug%20Menu_pic.PNG)
 
 
-Open this file with Jgrasp or Visual Studio. Make sure to have the C++ complier setup. 
+1. Click "Compile & Build"
+2. Click "Run"
+3. Enter the corresponding number in the menu to make decision.
+4. Enjoy
+
+Open this file with Jgrasp or Visual Studio.
 Here instruction how to install C++ and the compiler : https://w3.cs.jmu.edu/bernstdh/web/common/help/cpp_mingw-setup.php
