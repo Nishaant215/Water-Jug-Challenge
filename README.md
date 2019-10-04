@@ -5,7 +5,7 @@ Can you solve the water juggle riddle? If you have a 5 Gallon tank and 3 Gallon 
 
 
 ![alt text](https://github.com/Nishaant215/Water-Jug-Challenge/blob/master/Water%20Jug%20Menu_pic.PNG)
-![alt text] (http://puzzles.nigelcoldwell.co.uk/images/water22.png)
+![alt text](http://puzzles.nigelcoldwell.co.uk/images/water22.png)
 
 1. Download the ".cpp" file 
 2. Click "Compile & Build"
