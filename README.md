@@ -8,3 +8,4 @@ Here instruction how to install C++ and the compiler : https://w3.cs.jmu.edu/ber
 
 
   
+![alt text](Water Jug Menu_pic.PNG)
