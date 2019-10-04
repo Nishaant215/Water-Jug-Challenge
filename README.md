@@ -10,7 +10,7 @@ Can you solve the water juggle riddle? If you have a 5 Gallon tank and 3 Gallon 
 1. Download the ".cpp" file 
 2. Click "Compile & Build"
 3. Click "Run"
-4. Enter the corresponding number in the menu to make decision.
+4. Enter the corresponding number in the menu to make selection.
 5. Enjoy
 
 Open this file with Jgrasp or Visual Studio.
